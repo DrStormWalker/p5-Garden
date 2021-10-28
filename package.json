@@ -4,6 +4,7 @@
   "source": "src/index.html",
   "license": "MIT",
   "dependencies": {
+    "boids": "DrStormWalker/Boids",
     "p5": "^1.4.0"
   },
   "devDependencies": {
