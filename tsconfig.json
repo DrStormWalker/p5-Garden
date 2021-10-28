@@ -1,0 +1,10 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "Node",
+    "target": "es6",
+    "experimentalDecorators": true,
+    "jsxImportSource": "react"
+  }
+}
